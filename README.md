@@ -32,3 +32,5 @@ BeginEndMarkPipelineFilter : The protocol with a start stop character follows th
 FixedSizePipelineFilter : Fixed request size protocol If each of your requests consists of fixed size characters, the following filters can be used.
 	
 FixedHeaderPipelineFilter : Protocol with fixed header and content length included
+Key(1)+length(1)+body
+	
